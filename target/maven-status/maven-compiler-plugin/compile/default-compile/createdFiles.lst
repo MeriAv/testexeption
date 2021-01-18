@@ -1,0 +1,6 @@
+Domain\Book.class
+Domain\Product.class
+Repository\ProductRepository.class
+Exceptions\NotFoundException.class
+Domain\Smartphone.class
+Manager\ProductManager.class
